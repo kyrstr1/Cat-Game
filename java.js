@@ -6,7 +6,7 @@ const tiecheck = document.querySelector("#tie");
 const hat = document.querySelector(".hat");  
 const glasses = document.querySelector(".glasses");  
 const tie = document.querySelector(".tie");  
-//Reveal Hat  
+// Hat  
 hatcheck.addEventListener("change", hatfun);  
 function hatfun() {  
  if (hatcheck.checked == true) {  
