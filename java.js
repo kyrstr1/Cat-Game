@@ -33,3 +33,4 @@ function tiefun() {
   tie.style.bottom = "-80px";  
  }  
 }  
+
